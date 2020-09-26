@@ -1,0 +1,23 @@
+{
+  "name": "-MS_Ms04_Polaris_Tep_Mumbai_2020_2",
+  "version": "1.0.0",
+  "description": "## Learning Competencies By the end of this milestone ensure that you  - [ ] write tests for any program you are ever going to build  - [ ] are able to create and use object prototypes in js  - [ ] have understood how everything is an object in js & how powerful it is  - [ ] have practiced refactoring methods for your code  - [ ] able to appreciate the importance of thinking of time and planning of the project  - [ ] learn and practice a few software design patterns like Don't-Repeat-Yourself etc",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/-MS_Ms04_Polaris_Tep_Mumbai_2020_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/-MS_Ms04_Polaris_Tep_Mumbai_2020_2/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/-MS_Ms04_Polaris_Tep_Mumbai_2020_2#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
